@@ -2,9 +2,13 @@ topik : Smart Farming
 
  Masalah pertanian di Indonesia:
 -petani berusia tua
+
 -orientasi produksi bukan pasar
+
 -minim teknologi
+
 -benih bermutu terbatas
+
 -tidak ada sistem data real-time
 
 -Solusi (New mindset) 
